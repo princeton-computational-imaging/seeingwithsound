@@ -1,0 +1,8 @@
+title: Seeing With Sound Dataset
+description: Dataset page for the CVPR 2023 paper Seeing With Sound Long-range Acoustic Beamforming for Multimodal Scene Understanding
+theme: just-the-docs
+
+url: https://jimaldon.github.io/seeingwithsound
+search_enabled: false
+aux_links:
+  Paper Website: https://light.princeton.edu/seeingwithsound
