@@ -1,0 +1,25 @@
+// foo.scss
+
+$primary-color: #2e86de;
+$secondary-color: #f368e0;
+$accent-color: #ff9f43;
+
+$background-color: #f5f6fa;
+$text-color: #2f3542;
+$light-text-color: #808e9b;
+$border-color: #dcdde1;
+
+$success-color: #4cd137;
+$info-color: #3867d6;
+$warning-color: #e1b12c;
+$danger-color: #e84118;
+
+$button-bg-color: $primary-color;
+$button-text-color: #fff;
+$button-hover-bg-color: $secondary-color;
+$button-hover-text-color: #fff;
+
+$link-color: $primary-color;
+$link-hover-color: $secondary-color;
+$link-text-decoration: none;
+

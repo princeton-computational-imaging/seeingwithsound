@@ -1,0 +1,33 @@
+// Brand Colors
+$primary: #4169E1; // Royal Blue
+$secondary: #20B2AA; // Light Sea Green
+$accent: #FF6347; // Tomato
+
+// Neutral Colors
+$black: #000000; // Black
+$white: #FFFFFF; // White
+$gray: #808080; // Gray
+$light-gray: #F5F5F5; // Light Gray
+
+// Text Colors
+$text-primary: $black; // Black
+$text-secondary: $gray; // Gray
+$text-light: $light-gray; // Light Gray
+
+// Background Colors
+$background-primary: $white; // White
+$background-secondary: $light-gray; // Light Gray
+
+// Border Colors
+$border-color: $gray; // Gray
+
+// Button Colors
+$button-primary-background: $primary; // Royal Blue
+$button-primary-text: $white; // White
+$button-secondary-background: $white; // White
+$button-secondary-text: $gray; // Gray
+
+// Link Colors
+$link-color: $primary; // Royal Blue
+$link-hover-color: $secondary; // Light Sea Green
+
