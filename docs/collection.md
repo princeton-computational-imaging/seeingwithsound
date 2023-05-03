@@ -21,10 +21,10 @@ During the data acquisition, to minimize the effect of high winds on the sound r
 
 Map displaying the data acquisition route. Measurements from all sensors are available for red sections. Blue sections are missing data from the microphone array and RGB camera.
 
-![Montreal Capture Route](/assets/img/capture_map_overlayed.png)
+![Montreal Capture Route]({{site.baseurl}}/assets/img/capture_map_overlayed.png)
 
 ## Traffic Diversity
 
 This graph highlights the instances of traffic agents in the dataset across 6 different classes, with cars being the vast majority.
 
-![Instances of traffic obstacles](/assets/img/instances_updated.svg)
+![Instances of traffic obstacles]({{site.baseurl}}/assets/img/instances_updated.svg)

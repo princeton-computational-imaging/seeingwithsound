@@ -10,7 +10,7 @@ The dataset provided on this website was collected using a prototype vehicle tha
 
 ## Sensor Platform 
 
-![Data Collection Platform](/assets/img/sensors_labelled.png)
+![Data Collection Platform]({{site.baseurl}}/assets/img/sensors_labelled.png)
 
 
 ## Sensor Configuration
