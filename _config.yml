@@ -4,5 +4,6 @@ theme: just-the-docs
 color_scheme: foo
 url: https://jimaldon.github.io/seeingwithsound
 search_enabled: false
+baseurl: /seeingwithsound
   #logo: "/assets/img/logo.jpg"
 favicon_ico: "/assets/img/favicon.ico"
