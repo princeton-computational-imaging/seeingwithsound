@@ -8,3 +8,4 @@ Seeing With Sound is a dataset designed to enable the use of ambient road noise 
 
 [Paper]({{site.baseurl}}/assets/SeeingWithSound.pdf){: .btn }      [Download]({{site.baseurl}}/docs/download.html){: .btn }      [Website](https://light.princeton.edu/seeingwithsound){: .btn }
 
+![Overview]({{site.baseurl}}/assets/img/overview.gif)
