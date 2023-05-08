@@ -1,3 +1,3 @@
 docker compose up
 
-website at [http://jimaldon.github.io/seeingwithsound](http://jimaldon.github.io/seeingwithsound)
+website at [http://princeton-computational-imaging.github.io/seeingwithsound](http://princeton-computational-imaging.github.io/seeingwithsound)
