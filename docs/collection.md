@@ -27,4 +27,11 @@ Map displaying the data acquisition route. Measurements from all sensors are ava
 
 This graph highlights the instances of traffic agents in the dataset across 6 different classes, with cars being the vast majority.
 
-![Instances of traffic obstacles]({{site.baseurl}}/assets/img/instances_updated.svg)
+![Instances of Traffic Obstacles]({{site.baseurl}}/assets/img/instances_updated.svg)
+
+## Distribution of Data
+
+The dataset covers both day and night scenes, variety of weather conditions, neighborhoods and scenery and includes
+capture sequences with our prototype capture vehicle moving as well as being stationary.
+
+![Distribution of Data]({{site.baseurl}}/assets/img/distribution.png)
